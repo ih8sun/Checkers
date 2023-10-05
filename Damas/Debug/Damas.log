@@ -1,4 +1,0 @@
-﻿  Juego.cpp
-D:\Proyecto I - Damas\Damas\Juego.h(2,1): warning C4005: '_WIN32_WINNT': redefinición de macro
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\SDKDDKVer.h(223,1): message : vea la definición anterior de '_WIN32_WINNT'
-  Damas.vcxproj -> D:\Proyecto I - Damas\Debug\Damas.exe
