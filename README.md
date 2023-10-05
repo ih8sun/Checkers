@@ -9,3 +9,6 @@ Damas CPP is the main File, and the other files need to be in headers file. Well
 how to use VS...Easy peasy
 
 # Some images from the game
+![img1](https://github.com/ih8sun/Checkers/blob/d5f9f1c94c7b57d3e78cf87e990488771cf9db72/img/Damas1.png)
+![img1](https://github.com/ih8sun/Checkers/blob/d5f9f1c94c7b57d3e78cf87e990488771cf9db72/img/Damas2.png)
+![img1](https://github.com/ih8sun/Checkers/blob/d5f9f1c94c7b57d3e78cf87e990488771cf9db72/img/Damas3.png)
